@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "85e98e48dbbc174e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c753e314699280c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87dcbc166439e11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decisions/ADR-004.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-004"
+            }
+          },
+          {
+            "id": "0e02ba785a11283e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decisions/ADR-001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-001"
+            }
+          },
+          {
+            "id": "3e169a4412817a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "72c3f245eef8fe7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decisions/ADR-002.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-002"
+            }
+          },
+          {
+            "id": "1c1258ea5dc8d4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decisions/ADR-002.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-002"
+            }
+          },
+          {
+            "id": "8a29e72462828ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decisions/ADR-003.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-003"
+            }
+          },
+          {
+            "id": "67195d9358eef231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decisions/ADR-001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-001"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b12d4b8947f71473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe9d9e96c87e9e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e11c30f582f8b123",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c2cf73f42c6062e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "081919323a6a08fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd3a373247251176",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c529b60ded68fb2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1197ef2eede4fb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19f5b21e18d43eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e3c052b86cf1ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "decisions/ADR-002.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ADR-002"
+            }
+          },
+          {
+            "id": "bee7f6e5c685fc71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "decisions/ADR-002.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ADR-002"
+            }
+          },
+          {
+            "id": "863918d9af0087db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc12a8aaa8a4ea7d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a69d2d368487640b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "decisions/ADR-002.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ADR-002"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "72c3f245eef8fe7c",
+  "lastOpenFiles": [
+    "decisions/ADR-001.md",
+    "README.md",
+    "Architecture.md",
+    "decisions/ADR-005.md",
+    "decisions/ADR-004.md",
+    "decisions/ADR-003.md",
+    "decisions/ADR-002.md",
+    "decisions"
+  ]
+}
