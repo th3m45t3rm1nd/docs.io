@@ -5,6 +5,10 @@
 
 - **Documentation**
   - [Architecture](./Architecture.md)
+  - [Database Schema](./DatabaseSchema.md)
+  - [Environment Variables](Environment.md)
+  - [Onboarding](Onboarding.md)
+
 
 - **Decision Records**
   - [ADR-001](./decisions/ADR-001.md)

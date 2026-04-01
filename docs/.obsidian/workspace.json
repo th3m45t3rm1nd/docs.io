@@ -6,6 +6,7 @@
       {
         "id": "7c753e314699280c",
         "type": "tabs",
+        "dimension": 62.177835051546396,
         "children": [
           {
             "id": "87dcbc166439e11c",
@@ -22,45 +23,31 @@
             }
           },
           {
-            "id": "0e02ba785a11283e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "decisions/ADR-001.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADR-001"
-            }
-          },
-          {
-            "id": "3e169a4412817a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "72c3f245eef8fe7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decisions/ADR-002.md",
+                "file": "decisions/ADR-003.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADR-002"
+              "title": "ADR-003"
+            }
+          },
+          {
+            "id": "ff05bb5469169f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "decisions/ADR-003.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-003"
             }
           },
           {
@@ -69,12 +56,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decisions/ADR-002.md",
+                "file": "Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADR-002"
+              "title": "Environment"
+            }
+          },
+          {
+            "id": "ae2b03fd613e170f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_sidebar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_sidebar"
             }
           },
           {
@@ -90,27 +91,14 @@
               "icon": "lucide-file",
               "title": "ADR-003"
             }
-          },
-          {
-            "id": "67195d9358eef231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "decisions/ADR-001.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADR-001"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "b12d4b8947f71473",
         "type": "tabs",
+        "dimension": 37.822164948453604,
         "children": [
           {
             "id": "bbe9d9e96c87e9e4",
@@ -195,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decisions/ADR-002.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ADR-002"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -214,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decisions/ADR-002.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ADR-002"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -257,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decisions/ADR-002.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ADR-002"
+              "title": "Outline of README"
             }
           }
         ]
@@ -284,15 +272,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "72c3f245eef8fe7c",
+  "active": "ae2b03fd613e170f",
   "lastOpenFiles": [
-    "decisions/ADR-001.md",
-    "README.md",
     "Architecture.md",
+    "README.md",
+    "Onboarding.md",
+    "Environment.md",
+    "DatabaseSchema.md",
+    "decisions/ADR-002.md",
+    "decisions/ADR-003.md",
+    "_sidebar.md",
+    "index.html",
+    "decisions/ADR-001.md",
     "decisions/ADR-005.md",
     "decisions/ADR-004.md",
-    "decisions/ADR-003.md",
-    "decisions/ADR-002.md",
     "decisions"
   ]
 }

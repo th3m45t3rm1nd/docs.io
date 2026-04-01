@@ -1,7 +1,6 @@
 > Construction materials and services marketplace for Delhi NCR. Suppliers list products, customers buy, we facilitate. No warehouse. No inventory risk. Pure marketplace model.
 
 ---
-
 ## What this repo contains
 
 Node.js REST API powering the Constructmart platform. Handles authentication, product catalog, supplier management, order processing, payments, search, and notifications.
